@@ -1,6 +1,6 @@
 ### 👋 Hey! My name is Azhaan!
 
-I'm a developer. Hi.
+I'm a developer.
 
 Skills: Python, TensorFlow, Java, C#, .NET Core MVC
 
