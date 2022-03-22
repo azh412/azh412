@@ -1,4 +1,4 @@
-### 🔥🔥🔥 I'm Azhaan
+### 🔥🔥🔥 My name is Azhaan.
 
 Doing fiery things as a developer. Founder of [@casual-healthcare](https://github.com/casual-healthcare)
 
