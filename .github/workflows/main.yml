@@ -51,7 +51,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: azh412
-          plugin_music_token: 372ef1cb30934fd78c8b798ec95e8c53.9d705e165f654a5691e6a5b69e3e6da5.AQCx-1-LOuGp2HdnwFG16AgYQdi9tEzpLlEPZxiC2Ha7Zd6RgL…6Oo2ntq5XZE6GxmJnmK7ms4uxiUX8M-kjAKXzA_-JZ2TiJN00
+          plugin_music_token: "372ef1cb30934fd78c8b798ec95e8c53, 9d705e165f654a5691e6a5b69e3e6da5, AQCx-1-LOuGp2HdnwFG16AgYQdi9tEzpLlEPZxiC2Ha7Zd6RgL…6Oo2ntq5XZE6GxmJnmK7ms4uxiUX8M-kjAKXzA_-JZ2TiJN00"
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
