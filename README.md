@@ -14,6 +14,6 @@
 
 🔨 Some of my skills include Python, TensorFlow, Django, Java, C#, .NET Core MVC, and more.
 
-🔖 You can find my certifications from various institutions here: [https://bit.ly/3DAmiCF](https://bit.ly/3DAmiCF) 
+🔖 You can find my certifications obtained from various institutions here: [https://bit.ly/3DAmiCF](https://bit.ly/3DAmiCF) 
 
 ![Metrics](/github-metrics.svg)
