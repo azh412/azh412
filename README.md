@@ -10,7 +10,7 @@
 
 ### Hey. My name is Azhaan.
 
-I make things. Created [@casual-healthcare](https://github.com/casual-healthcare) and [Voyage](https://voyage.azh.world)
+I make things. Created [@casual-healthcare](https://github.com/casual-healthcare) and [Voyage](https://voyageai.co)
 
 🔨 Some of my skills include Python, TensorFlow, Django, Java, C#, .NET Core MVC, and more.
 
