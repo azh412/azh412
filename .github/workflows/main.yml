@@ -58,6 +58,6 @@ jobs:
           plugin_music_token: "372ef1cb30934fd78c8b798ec95e8c53, 9d705e165f654a5691e6a5b69e3e6da5, AQAhmZitjmn3JMlAWkhfcDz_0H8iQIESM1FI-BmRvwkwnlMb2DCA6ZdtI5U7QyUs4F1tYCw3mFxyulUBRkQwNWvmxhPpkhK59Jzii9CGN6aAeRuemf3x1IKznPqlrwt3M88"
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
-          plugin_repositories_featured: casual-healthcare/braindiagnose, azh412/azhstonks, azh412/Pathfinder, azh412/AutoClips, azh412/VirtualPianoBot
+          plugin_repositories_featured: casual-healthcare/braindiagnose, azh412/eloquent, azh412/CircleGame, azh412/azhstonks, azh412/Pathfinder, azh412/AutoClips, azh412/VirtualPianoBot
           plugin_repositories_batch: 100
           plugin_traffic: yes
