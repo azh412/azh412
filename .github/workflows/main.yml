@@ -48,14 +48,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugin_music: no
-          plugin_music_limit: 4
-          plugin_music_mode: top
-          plugin_music_provider: spotify
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: azh412
-          plugin_music_token: "372ef1cb30934fd78c8b798ec95e8c53, 9d705e165f654a5691e6a5b69e3e6da5, AQAhmZitjmn3JMlAWkhfcDz_0H8iQIESM1FI-BmRvwkwnlMb2DCA6ZdtI5U7QyUs4F1tYCw3mFxyulUBRkQwNWvmxhPpkhK59Jzii9CGN6aAeRuemf3x1IKznPqlrwt3M88"
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_featured: casual-healthcare/braindiagnose, azh412/eloquent, azh412/CircleGame, azh412/azhstonks, azh412/Pathfinder, azh412/AutoClips, azh412/VirtualPianoBot
