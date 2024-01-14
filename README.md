@@ -16,6 +16,6 @@ I make things. Created [@casual-healthcare](https://github.com/casual-healthcare
 
 🔖 You can find my certifications obtained from various institutions here: [https://bit.ly/3DAmiCF](https://bit.ly/3DAmiCF) 
 
-💻 Check out my web projects at [azh.world](https://azh.world)
+💻 Check out my web projects at [azh.world](https://azhn.world) soon
 
 ![Metrics](/github-metrics.svg)
